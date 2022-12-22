@@ -1,0 +1,66 @@
+[
+   {
+      "id": 112,
+      "name": "ОАО Первый участник",
+      "fields": {
+         "PARAM_EVENT": false,
+         "PARAM_TERM": 80,
+         "PARAM_PREPAYMENTS": 30,
+         "PARAM_GARANTEE_TIME": 24,
+         "PARAM_PRICE": {
+            "PARAM_GOARL_PRICE": 0,
+            "PARAM_ACTUAL_PRICE": 2500000,
+            "PARAM_TAX": 20000
+         },
+         "PARAM_ACTIONS": ""
+      }
+   },
+   {
+      "id": 102,
+      "name": "ОАО «Прогресс»",
+      "fields": {
+         "PARAM_EVENT": false,
+         "PARAM_TERM": 70,
+         "PARAM_PREPAYMENTS": 32,
+         "PARAM_GARANTEE_TIME": 20,
+         "PARAM_PRICE": {
+            "PARAM_GOARL_PRICE": 0,
+            "PARAM_ACTUAL_PRICE": 2300000,
+            "PARAM_TAX": 20000
+         },
+         "PARAM_ACTIONS": ""
+      }
+   },
+   {
+      "id": 31,
+      "name": "ТЕХПРОМСТРОЙ",
+      "fields": {
+         "PARAM_EVENT": true,
+         "PARAM_TERM": 85,
+         "PARAM_PREPAYMENTS": 30,
+         "PARAM_GARANTEE_TIME": 12,
+         "PARAM_PRICE": {
+            "PARAM_GOARL_PRICE": 0,
+            "PARAM_ACTUAL_PRICE": 2300000,
+            "PARAM_TAX": 20000
+         },
+         "PARAM_ACTIONS": ""
+      }
+   },
+   {
+      "id": 54,
+      "name": "ООО «ЛУЧШИЕ ПРОМЫШЛЕННЫЕ РЕШЕНИЯ»",
+      "fields": {
+         "PARAM_EVENT": false,
+         "PARAM_TERM": 64,
+         "PARAM_PREPAYMENTS": 16,
+         "PARAM_GARANTEE_TIME": 24,
+         "PARAM_PRICE": {
+            "PARAM_GOARL_PRICE": 0,
+            "PARAM_ACTUAL_PRICE": 2600000,
+            "PARAM_TAX": 20000
+         },
+         "PARAM_ACTIONS": ""
+      }
+   }
+]
